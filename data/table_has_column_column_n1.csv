@@ -1,0 +1,11 @@
+_from_name,_to_name,_uid
+"""Customer_Summary""","""quantity""",2ae3eb4c-b2ed-4b92-8e9f-0bbb0cc408c5
+"""Customer_Summary""","""updated_at""",c832bc77-ede6-4a4e-90ca-143ca37d4906
+"""Customer_Summary""","""quantity""",a01e62d2-4f91-4a6c-b9d5-ad432fbbd181
+"""Customer_Summary""","""contract_start_date""",71f5c450-564f-4ca5-9fcc-136de2e1777b
+"""Customer_Summary""","""gender""",b6dfcdc7-fc42-4ea3-9389-db60420c81a4
+"""Orders_Summary""","""deadline""",e543506e-c25b-4bd0-a3ec-67f4cfc41bd7
+"""Orders_Summary""","""description""",e6b424c7-c87d-4404-bbe9-cb72444df1d4
+"""Orders_Summary""","""deadline""",65bbc6e2-f331-4352-a786-b8f73860765e
+"""Orders_Summary""","""updated_at""",e6ee1dbf-3048-47fc-a1d5-93bd48f3c408
+"""Orders_Summary""","""email""",f0576b6c-7b9d-459c-abbb-5538697a7c4d
